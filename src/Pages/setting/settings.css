@@ -1,0 +1,6 @@
+.setting__section {
+    display: flex;
+}
+.setting__wrapper  {
+    flex: 9;
+}
