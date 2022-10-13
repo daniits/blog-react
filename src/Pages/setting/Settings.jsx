@@ -13,7 +13,13 @@ const Settings = () => {
               Delete Your Account
             </span>
           </div>
-          <form action="" className="setting__form"></form>
+          <form action="" className="setting__form">
+            <label>
+              <div className="setting__profilepicture">
+                <img src="https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png " alt="" />
+              </div>
+            </label>
+          </form>
         </div>
         <SideBar />
     </div>
